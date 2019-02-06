@@ -2,6 +2,7 @@
   "name": "toseefkhilji.github.io",
   "short_name": "toseefkhilji.github.io",
   "prefer_related_applications": true,
+  "start_url" : "/index.html",
   "related_applications": [
     {
       "platform": "play",
